@@ -1,0 +1,8 @@
+{
+  "name": "EduPro Plus - Next-Gen Classroom Management",
+  "description": "A comprehensive classroom management tool featuring AI-driven progress reports, automated billing, and interactive educational games for Math, English, Malay, and Chinese.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
